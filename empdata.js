@@ -9,7 +9,7 @@
       "age": "26"
     },
     {
-     "name": "Ran Duan",
+      "name": "Ran Duan",
       "designation": "Server",
       "working_hour": "40",
       "hourly_salary": "12",
@@ -17,7 +17,7 @@
       "age": "24"
     },
     {
-     "name": "Oreo Li",
+      "name": "Oreo Li",
       "designation": "Manager",
       "working_hour": "40",
       "hourly_salary": "14",
@@ -25,7 +25,7 @@
       "age": "24"
     },
     {
-     "name": "Nhi Zhang",
+      "name": "Nhi Zhang",
       "designation": "Server",
       "working_hour": "40",
       "hourly_salary": "15",
